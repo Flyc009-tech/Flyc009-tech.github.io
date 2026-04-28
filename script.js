@@ -2,9 +2,9 @@
 const comicData = {
   title: "海贼王 第1话",
   pages: [
-    "https://your-cdn.com/onepiece/ch1/page1.jpg",
-    "https://your-cdn.com/onepiece/ch1/page2.jpg",
-    "https://your-cdn.com/onepiece/ch1/page3.jpg",
+    "https://cdn.jsdelivr.net/gh/Flyc009-tech/Flyc009-tech.github.io/images/0.jpg",
+    "https://cdn.jsdelivr.net/gh/Flyc009-tech/Flyc009-tech.github.io/images/1.jpg",
+    "https://cdn.jsdelivr.net/gh/Flyc009-tech/Flyc009-tech.github.io/images/2.jpg",
     // 添加更多页面...
   ]
 };
